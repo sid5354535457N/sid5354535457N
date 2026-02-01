@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I am a final-year **Information Technology** student at **PCCOER, Pune**. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows using **n8n**.
 
-* 🎓 **Certified Data Scientist:** Completed an intensive 6-month Data Science specialization covering Python, ML, and NLP.
+* 🎓 **Certified Data Scientist:** Completed an intensive 6-month Data Science specialization covering Excel,Power BI,MySql,Python, ML, and NLP.
 * 🤖 **Automation Expert:** Proficient in **n8n** for building automated workflows and AI-driven systems.
 * 🔭 **Experience:** Recently worked as a **Data Science Intern** at Inorbvict Healthcare India Pvt. Ltd.
 * 🏆 **Achievement:** Won 2nd Prize in the **Bro Code Hackathon** for DSA problem-solving.
