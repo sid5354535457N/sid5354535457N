@@ -8,13 +8,12 @@
 ---
 
 ### 🚀 About Me
-[cite_start]I am a final-year **Information Technology** student at **PCCOER, Pune**[cite: 6, 12, 13]. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows.
+I am a final-year **Information Technology** student at **PCCOER, Pune**. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows using **n8n**.
 
-* [cite_start]🎓 **Certified Data Scientist:** Completed an intensive 6-month Data Science specialization[cite: 40].
-* 🤖 **Automation Expert:** Proficient in **n8n** for building automated workflows and AI integrations.
-* 🔭 **Experience:** Recently worked as a **Data Science Intern** at Inorbvict Healthcare India Pvt. [cite_start]Ltd.[cite: 20].
-* 👯 **Collaboration:** Looking to collaborate on **Data Science, AI, and Automation projects**.
-* [cite_start]🏆 **Achievement:** Won 2nd Prize in the **Bro Code Hackathon** for DSA problem-solving[cite: 47].
+* 🎓 **Certified Data Scientist:** Completed an intensive 6-month Data Science specialization covering Python, ML, and NLP.
+* 🤖 **Automation Expert:** Proficient in **n8n** for building automated workflows and AI-driven systems.
+* 🔭 **Experience:** Recently worked as a **Data Science Intern** at Inorbvict Healthcare India Pvt. Ltd.
+* 🏆 **Achievement:** Won 2nd Prize in the **Bro Code Hackathon** for DSA problem-solving.
 
 ---
 
@@ -23,18 +22,17 @@
 **Data Science & Analytics:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-**AI, NLP & Machine Learning:**
+**AI & Machine Learning:**
 <p align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-Green?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-Blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-Black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-Black?style=for-the-badge" />
 </p>
 
 **Automation & Tools:**
@@ -47,10 +45,10 @@
 ---
 
 ### 📚 Featured Projects
-* [cite_start]**Secure Content Analyzer:** A Flask web app using **Google Gemini 1.5 Flash API** to detect phishing and malicious content[cite: 30, 31].
-* [cite_start]**Health Insurance Cost Predictor:** An ML-powered web app built with **Streamlit** to predict premiums[cite: 32, 33].
-* [cite_start]**Student Exam Scores Analysis:** Exploratory Data Analysis on 30k+ records using **Seaborn and Matplotlib**[cite: 27, 28].
-* [cite_start]**KPMG Customer Insights:** Performed data cleaning and **Customer Lifetime Value (CLV)** analysis in Excel.
+* **Secure Content Analyzer:** A Flask web app using **Google Gemini 1.5 Flash API** to detect phishing and malicious content.
+* **Health Insurance Cost Predictor:** An ML-powered web app built with **Streamlit** to predict premiums.
+* **Student Exam Scores Analysis:** Exploratory Data Analysis on 30k+ records using **Seaborn and Matplotlib**.
+* **KPMG Customer Insights:** Performed data cleaning and **Customer Lifetime Value (CLV)** analysis in Excel.
 
 ---
 
