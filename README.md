@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant Bisen</h1>
+<h1 align="center">Hi 👋, I'm Rohan Pardhi</h1>
 <h3 align="center">Data Scientist | AI & Automation Specialist | B.E. IT Student</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a final-year **Information Technology** student at **PCCOER, Pune**. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows using **n8n**.
+I am a third-year **Computer Engineering** student at **Modern College, Pune**. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows using **n8n**.
 
 * 🎓 **Certified Data Scientist:** Completed an intensive 6-month Data Science specialization covering Excel,Power BI,MySql,Python, ML, and NLP.
 * 🤖 **Automation Expert:** Proficient in **n8n** for building automated workflows and AI-driven systems.
