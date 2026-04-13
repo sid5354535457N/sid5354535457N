@@ -57,7 +57,7 @@ I am a third-year **Computer Engineering** student at **Modern College, Pune**. 
   <a href="https://www.linkedin.com/in/rohan-pardhi-b640b33b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios " target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sidhantbisen@gmail.com">
+  <a href="mailto:rohan05pardhi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
