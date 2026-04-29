@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Pardhi</h1>
+<h1 align="center">Hi 👋, I'm Siddhant Bisen</h1>
 <h3 align="center">Data Scientist | AI & Automation Specialist | B.E. IT Student</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a third-year **Computer Engineering** student at **Modern College, Pune**. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows using **n8n**.
+I am a final-year **IT** student at **PCCOER, Pune**. I am a certified Data Scientist with a strong foundation in building AI-powered solutions and automating complex business workflows using **n8n**.
 
 * 🎓 **Certified Data Scientist:** Completed an intensive 6-month Data Science specialization covering Excel,Power BI,MySql,Python, ML, and NLP.
 * 🤖 **Automation Expert:** Proficient in **n8n** for building automated workflows and AI-driven systems.
@@ -54,10 +54,10 @@ I am a third-year **Computer Engineering** student at **Modern College, Pune**. 
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/rohan-pardhi-b640b33b8?utm_source=share_via&utm_content=profile&utm_medium=member_ios " target="blank">
+  <a href="https://www.linkedin.com/in/siddhant-bisen-909480259/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rohan05pardhi@gmail.com">
+  <a href="mailto:sidhantbisen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
