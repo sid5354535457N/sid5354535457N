@@ -78,7 +78,7 @@ I'm a final-year **B.E. Information Technology** student at **PCCOER, Pune**, wi
 | 🎓 **[Student Exam Scores Analysis](#)** | Exploratory data analysis on 30k+ student records, uncovering performance trends and correlations. | `Python` `Seaborn` `Matplotlib` |
 | 📈 **[KPMG Customer Insights](#)** | Data cleaning and Customer Lifetime Value (CLV) analysis to support marketing and retention strategy. | `Excel` |
 
-> Replace the `#` links above with the actual repo URLs so recruiters can click straight through to your code.
+
 
 ---
 
